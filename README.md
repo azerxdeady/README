@@ -19,7 +19,3 @@
 - **Tools:** Git, GitHub, VS Code
 
 ---
-
-### 📫 Connect with Me
-- 💼 **LinkedIn:** [Add your LinkedIn URL here]
-- 📧 **Email:** [Add your email address here]
