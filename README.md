@@ -1,5 +1,7 @@
 # README
 # Hi there, I'm Deepika S! 👋
+# DEEPIKA SELVAKUMAR
+
 
 🎓 **B.Tech in Information Technology (2025–2029)**  
 🏛️ **Vivekanandha College of Engineering for Women (Autonomous)**, Tiruchengode  
